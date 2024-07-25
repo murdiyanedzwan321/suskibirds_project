@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [edzwan@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
+If you have any questions or suggestions, feel free to open an issue or contact us at [edzwan@unlip.ac.id](mailto:your-email@edzwan@unlip.ac.id).
 
