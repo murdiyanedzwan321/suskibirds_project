@@ -1,7 +1,7 @@
 ## Suskibirds Project
 
 <p>
-    <img src="home.jpeg" >
+    <img src="home (1).jpeg" >
     <img src="test.jpg" >
 </p>
 
