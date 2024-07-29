@@ -51,7 +51,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
   <p>
         <img src="confusion.matrix.png" >
-       <confusion_matrix.png>
+        <confusion_matrix.png>
     
   
       
