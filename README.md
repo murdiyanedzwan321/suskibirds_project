@@ -45,7 +45,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
      "val_batch0" refers to the first batch of validation data used during the validation phase of a machine learning or deep learning model. This batch is used to evaluate the model's performance and generalization ability on unseen data after training on the training batches.</p>
 
  <p>
-      <img src="test.jpg" >
+      <img src="results.png" >
       <results.png">
     
   
