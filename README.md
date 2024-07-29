@@ -35,7 +35,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
   <p>
     <img src="test.jpg" >
-train_batch0.jpg
+<,train_batch0.jpg>
       
 
 
