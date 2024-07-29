@@ -40,7 +40,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
     
           
  <p>
-    <img src="val_batch.jpg" >
+    <img src="val_batch_labels.jpg" >
      <val_batch0_labels.jpg>
     
   
