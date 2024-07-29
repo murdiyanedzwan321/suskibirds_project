@@ -37,6 +37,10 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
     <img src="train_batch0.jpg" >
       <train_batch0.jpg>
     "train_batch0" refers to the first batch of training data used in the training phase of a machine learning or deep learning model. It contains the initial subset of the training data, which the model processes to begin updating its parameters and improving performance.
+    <p>
+    <img src="val_batch0.jpg" >
+    val_batch0_labels.jpg
+    
   
       
 
