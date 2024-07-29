@@ -34,7 +34,6 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 ## Result
 
   <p>
-     <img src="home (1).jpeg" >
     <img src="test.jpg" >
 ## License
 
