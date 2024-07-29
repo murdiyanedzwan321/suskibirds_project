@@ -35,7 +35,6 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 %cd {HOME}
 Image(filename=f'{HOME}/runs/detect/train/val_batch0_pred.jpg', width=600)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
